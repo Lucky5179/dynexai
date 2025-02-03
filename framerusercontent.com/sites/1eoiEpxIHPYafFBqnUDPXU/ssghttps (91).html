@@ -1,0 +1,6 @@
+import{jsx as _jsx}from"react/jsx-runtime";import{motion}from"framer-motion";import{addPropertyControls,ControlType,RenderTarget}from"framer";/**
+ * @framerSupportedLayoutWidth any-prefer-fixed
+ * @framerSupportedLayoutHeight fixed
+ */ export default function Revealer(props){const isCanvas=RenderTarget.current()===RenderTarget.canvas?true:false;return /*#__PURE__*/ _jsx(motion.div,{...props,className:"dandikko",initial:{width:props.baseWidth,backgroundImage:!isCanvas?"linear-gradient(90deg, #070713 50%, rgba(7, 17, 19, 0) 100%)":"none"},whileInView:{backgroundImage:!isCanvas?"linear-gradient(45deg, #070713 10%, rgba(7, 17, 19, 0) 50%)":"none",width:"50%",x:"-90%"},transition:{duration:props.duration,delay:props.delay},transitionEnd:{zIndex:-1},exit:"hidden",viewport:{once:true}});};addPropertyControls(Revealer,{baseWidth:{title:"Initial Width",type:ControlType.String},duration:{title:"Duration",type:ControlType.Number},delay:{title:"Delay",type:ControlType.Number}});Revealer.defaultProps={delay:0,duration:1,baseWidth:"1000px"};
+export const __FramerMetadata__ = {"exports":{"default":{"type":"reactComponent","name":"Revealer","slots":[],"annotations":{"framerSupportedLayoutWidth":"any-prefer-fixed","framerContractVersion":"1","framerSupportedLayoutHeight":"fixed"}},"__FramerMetadata__":{"type":"variable"}}}
+//# sourceMappingURL=./Revealer.map
