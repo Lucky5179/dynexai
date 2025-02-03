@@ -5282,7 +5282,7 @@ var As = O(tt),
               }),
               C() &&
                 e(xe, {
-                  href: "https://app.dynex.pro/",
+                  href: "https://app.dynexai.pro/",
                   nodeId: "HJFjQyFJR",
                   children: e(Xe, {
                     as: "a",
@@ -7058,7 +7058,7 @@ As Quantum, the next megacycle in computing, unfolds, Dynex is already leading t
                                               id: "wUC9tztip",
                                               layoutId: "wUC9tztip",
                                               OxvVnM9Vj: !0,
-                                              PWiTIKmkB: "https://app.dynex.pro/",
+                                              PWiTIKmkB: "https://app.dynexai.pro/",
                                               QVxRnsVaA: "Enterprise Product",
                                               SLOdxAGFe: "ArrowRight",
                                               width: "100%",
@@ -7730,7 +7730,7 @@ As Quantum, the next megacycle in computing, unfolds, Dynex is already leading t
                                           className: "framer-144ryqc-container",
                                           children: e(Ct, {
                                             BbUKZRWNn:
-                                              "https://x.com/dynex_erc20",
+                                              "https://x.com/dynexai_erc20",
                                             gAzMgvtIt: !0,
                                             gHTqYbO4m:
                                               "Follow us on X (Twitter)",
@@ -7870,7 +7870,7 @@ As Quantum, the next megacycle in computing, unfolds, Dynex is already leading t
                                           className: "framer-1p28id3-container",
                                           children: e(Ct, {
                                             BbUKZRWNn:
-                                              "https://t.me/dynex_erc20",
+                                              "https://t.me/dynexai_erc20",
                                             gAzMgvtIt: !0,
                                             gHTqYbO4m:
                                               "Follow us on Telegram Community",

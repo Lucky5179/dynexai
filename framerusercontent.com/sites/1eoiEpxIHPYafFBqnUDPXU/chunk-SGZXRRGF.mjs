@@ -1951,7 +1951,7 @@ var xr = { damping: 60, delay: 0, mass: 1, stiffness: 500, type: "spring" },
                         children: [
                          
                           e(te, {
-                            href: "https://t.me/dynex_erc20",
+                            href: "https://t.me/dynexai_erc20",
                             nodeId: "bzEaUAFjp",
                             children: e(a.a, {
                               className: "framer-wrr5pd framer-c5b2dc",
@@ -1981,7 +1981,7 @@ var xr = { damping: 60, delay: 0, mass: 1, stiffness: 500, type: "spring" },
                             }),
                           }),
                           e(te, {
-                            href: "https://x.com/dynex_erc20",
+                            href: "https://x.com/dynexai_erc20",
                             nodeId: "jAq14GMyo",
                             children: e(a.a, {
                               className: "framer-ephpoe framer-c5b2dc",
