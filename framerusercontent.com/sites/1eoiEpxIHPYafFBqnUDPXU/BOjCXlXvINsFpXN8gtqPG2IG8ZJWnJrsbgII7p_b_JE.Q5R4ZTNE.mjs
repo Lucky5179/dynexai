@@ -219,7 +219,7 @@ var oe = d(s),
                 }),
                 ie() &&
                   e(Y, {
-                    href: "https://app.dynexai.pro/",
+                    href: "https://app.dynexai.xyz/",
                     nodeId: "g7exEGxdb",
                     children: e(C, {
                       as: "a",

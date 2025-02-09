@@ -549,7 +549,7 @@ var z,
                 }),
                 M() &&
                   e(ae, {
-                    href: "https://app.dynexai.pro/",
+                    href: "https://app.dynexai.xyz/",
                     nodeId: "BzIyclTLL",
                     children: e(de, {
                       as: "a",

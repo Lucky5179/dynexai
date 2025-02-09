@@ -1026,7 +1026,7 @@ var E = w(),
                 }),
                 S() &&
                   e(J, {
-                    href: "https://app.dynexai.pro/",
+                    href: "https://app.dynexai.xyz/",
                     children: e(q, {
                       as: "a",
                       background: {

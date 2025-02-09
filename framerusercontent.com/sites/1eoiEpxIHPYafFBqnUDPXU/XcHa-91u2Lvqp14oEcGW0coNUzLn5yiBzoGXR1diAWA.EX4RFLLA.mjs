@@ -5282,7 +5282,7 @@ var As = O(tt),
               }),
               C() &&
                 e(xe, {
-                  href: "https://app.dynexai.pro/",
+                  href: "https://app.dynexai.xyz/",
                   nodeId: "HJFjQyFJR",
                   children: e(Xe, {
                     as: "a",
@@ -7058,7 +7058,7 @@ As Quantum, the next megacycle in computing, unfolds, Dynex is already leading t
                                               id: "wUC9tztip",
                                               layoutId: "wUC9tztip",
                                               OxvVnM9Vj: !0,
-                                              PWiTIKmkB: "https://app.dynexai.pro/",
+                                              PWiTIKmkB: "https://app.dynexai.xyz/",
                                               QVxRnsVaA: "Enterprise Product",
                                               SLOdxAGFe: "ArrowRight",
                                               width: "100%",
